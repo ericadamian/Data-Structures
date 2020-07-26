@@ -1,0 +1,38 @@
+ericadamian@Erics-MBP-2 desktop % javac Main.java
+ericadamian@Erics-MBP-2 desktop % java Main
+
+**********************************************************************
+	LinkedBag testing results (contains hardcoded values)
+**********************************************************************
+
+Is the given bag empty? true
+Does this bag contain the given entry? false
+Were you able to add the given entry? true
+Were you able to add the given entry? true
+Were you able to add the given entry? true
+Were you able to add the given entry? true
+Were you able to add the given entry? true
+Does this bag contain the given entry? true
+Does this bag contain the given entry? false
+Does this bag contain the given entry? true
+Your current array: 7 15 13 2 4 
+The following entry has been removed from the bag: 7
+Were you able to remove the specified entry? false
+Were you able to remove the specified entry? true
+Were you able to remove the specified entry? false
+Were you able to remove the specified entry? false
+How many entries are in our bag? 3
+***Clearing entries in our linkedbag***
+Is the given bag empty? true
+Were you able to add the given entry? true
+Were you able to add the given entry? true
+How many entries are in our bag? 2
+Were you able to add the given entry? true
+Were you able to add the given entry? true
+Were you able to add the given entry? true
+Your current array: 6 8 4 8 8 
+How many times did the given entry occur? 3
+Is the given bag empty? false
+***Clearing entries in our linkedbag***
+Is the given bag empty? true
+ericadamian@Erics-MBP-2 desktop % 

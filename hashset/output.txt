@@ -1,0 +1,61 @@
+ericadamian@Erics-MBP-2 ~ % cd desktop
+ericadamian@Erics-MBP-2 desktop % javac Main.java
+ericadamian@Erics-MBP-2 desktop % java Main
+
+**********************************************************************
+		Hash Set (linear probing) testing results
+			Contains hardcoded values
+**********************************************************************
+
+Is the given array empty? true
+Does this array contain the given entry? false
+Were you able to add the given entry? true
+Were you able to add the given entry? true
+Were you able to add the given entry? false
+Were you able to add the given entry? true
+Removing the following entry from our array: null
+Removing the following entry from our array: 8
+Does this array contain the given entry? true
+Does this array contain the given entry? false
+Your current array: 13 20 
+How many entries are in our array? 2
+Is the given array empty? false
+***Clearing entries in our array***
+Your current array: 
+How many entries are in our array? 0
+Were you able to add the given entry? true
+Were you able to add the given entry? true
+How many entries are in our array? 2
+Removing the following entry from our array: 20
+How many entries are in our array? 1
+Your current array: 8 
+
+**********************************************************************
+		Hash Set (quadratic probing) testing results
+			Contains hardcoded values
+**********************************************************************
+
+Is the given array empty? true
+Does this array contain the given entry? false
+Were you able to add the given entry? true
+Were you able to add the given entry? true
+Were you able to add the given entry? false
+Were you able to add the given entry? true
+Removing the following entry from our array: null
+Removing the following entry from our array: 8
+Does this array contain the given entry? true
+Does this array contain the given entry? false
+Your current array: 13 20 
+How many entries are in our array? 2
+Is the given array empty? false
+***Clearing entries in our array***
+Your current array: 
+How many entries are in our array? 0
+Were you able to add the given entry? true
+Were you able to add the given entry? true
+How many entries are in our array? 2
+Removing the following entry from our array: 20
+How many entries are in our array? 1
+Your current array: 8 
+
+ericadamian@Erics-MBP-2 desktop % 

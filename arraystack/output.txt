@@ -1,0 +1,23 @@
+**********************************************************************
+	ArrayStack testing results (contains hardcoded values)
+**********************************************************************
+
+Is the given stack empty? true
+The following element was added to the stack: 3
+The following element was added to the stack: 8
+Is the given stack empty? false
+***Clearing elements in our stack***
+Is the given stack empty? true
+The following element was added to the stack: 16
+The following element was added to the stack: 5
+The following element was added to the stack: 11
+The following element was popped from the stack: 11
+The top element on the stack is: 5
+The following element was popped from the stack: 5
+Is the given stack empty? false
+The top element on the stack is: 16
+The following element was popped from the stack: 16
+Is the given stack empty? true
+***Exceeding stack capacity, generating new stack***
+The following element was added to our new stack: 12
+ericadamian@Erics-MBP-2 desktop % 

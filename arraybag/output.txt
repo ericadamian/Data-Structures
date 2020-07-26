@@ -1,0 +1,35 @@
+ericadamian@Erics-MBP-2 desktop % javac Main.java
+ericadamian@Erics-MBP-2 desktop % java Main      
+
+**********************************************************************
+	ArrayBag testing results (contains hardcoded values)
+**********************************************************************
+
+Is the given bag empty? true
+Does this bag contain the given entry? false
+Were you able to add the given entry? true
+Were you able to add the given entry? true
+Were you able to add the given entry? true
+Were you able to add the given entry? true
+Were you able to add the given entry? true
+Your current array: 4 2 13 15 7 
+Were you able to remove the specified entry? false
+The following entry has been removed from the bag: 7
+Were you able to remove the specified entry? true
+How many entries are in our bag? 3
+Does this bag contain the given entry? false
+Does this bag contain the given entry? true
+***Clearing entries in our arraybag***
+Is the given bag empty? true
+Were you able to add the given entry? true
+Were you able to add the given entry? true
+How many entries are in our bag? 2
+Were you able to add the given entry? true
+Your current array: 8 8 8 
+How many times did the given entry occur? 3
+The following entry has been removed from the bag: 8
+How many times did the given entry occur? 2
+Is the given bag empty? false
+***Clearing entries in our arraybag***
+Is the given bag empty? true
+ericadamian@Erics-MBP-2 desktop % 

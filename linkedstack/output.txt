@@ -1,0 +1,20 @@
+**********************************************************************
+	LinkedStack testing results (contains hardcoded values)
+**********************************************************************
+
+Is the given stack empty? true
+The following element was added to the stack: 15
+The following element was added to the stack: 6
+Is the given stack empty? false
+***Clearing elements in our stack***
+The following element was added to the stack: 8
+The following element was added to the stack: 11
+The following element was added to the stack: 4
+The following element was popped from the stack: 4
+The top element on the stack is: 11
+The following element was popped from the stack: 11
+Is the given stack empty? false
+The top element on the stack is: 8
+The following element was popped from the stack: 8
+Is the given stack empty? true
+ericadamian@Erics-MBP-2 desktop % 
