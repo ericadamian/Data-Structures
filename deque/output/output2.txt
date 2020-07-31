@@ -1,0 +1,34 @@
+ericadamian@Erics-MBP-2 desktop % javac Main.java
+ericadamian@Erics-MBP-2 desktop % java Main      
+
+**********************************************************************
+	Deque testing results (contains hardcoded values)
+**********************************************************************
+
+Is the given deque empty? true
+***Adding the specified entry to the front of our deque***
+***Adding the specified entry to the back of our deque***
+***Adding the specified entry to the front of our deque***
+***Adding the specified entry to the back of our deque***
+***Adding the specified entry to the front of our deque***
+***Adding the specified entry to the front of our deque***
+***Adding the specified entry to the front of our deque***
+Is the given deque empty? false
+Our current deque: 12 7 2 19 4 8 5 
+The first entry in our deque: 12
+The last entry in our deque: 5
+***Removing an entry from the front of our deque***
+***Removing an entry from the front of our deque***
+***Removing an entry from the back of our deque***
+Our current deque: 2 19 4 8 
+The first entry in our deque: 2
+The last entry in our deque: 8
+***Removing an entry from the back of our deque***
+***Removing an entry from the back of our deque***
+***Removing an entry from the back of our deque***
+***Removing an entry from the back of our deque***
+***Removing an entry from the back of our deque***
+Exception in thread "main" EmptyQueueException
+	at LinkedDeque.removeFront(LinkedDeque.java:46)
+	at Main.main(Main.java:81)
+ericadamian@Erics-MBP-2 desktop % 
