@@ -1,0 +1,43 @@
+ericadamian@Erics-MBP-2 desktop % javac Main.java
+ericadamian@Erics-MBP-2 desktop % java Main
+
+**********************************************************************
+	LinkedList testing results (contains hardcoded values)
+**********************************************************************
+
+Is the given list empty? true
+***Adding the specified entry to our list***
+***Adding the specified entry to our list***
+***Adding the specified entry to our list***
+***Adding the specified entry at a specific position in our list***
+***Adding the specified entry at a specific position in our list***
+Does this list contain the specified entry? true
+Does this list contain the specified entry? false
+Does this list contain the specified entry? false
+What is the value at the specified index? 6
+What is the value at the specified index? 18
+What is the value at the specified index? 15
+What is the value at the specified index? 12
+What is the value at the specified index? 9
+How many entries are in our list? 5
+The following entry was replaced in the list: 15
+The following entry was replaced in the list: 9
+What is the value at the specified index? 6
+What is the value at the specified index? 18
+What is the value at the specified index? 1
+What is the value at the specified index? 12
+What is the value at the specified index? 17
+The following entry was removed from the list: 1
+The following entry was removed from the list: 18
+The following entry was removed from the list: 12
+What is the value at the specified index? 6
+What is the value at the specified index? 17
+How many entries are in our list? 2
+Is the given list empty? false
+Does this list contain the specified entry? true
+Does this list contain the specified entry? false
+Does this list contain the specified entry? true
+***Clearing entries in linked list***
+How many entries are in our list? 0
+Is the given list empty? true
+ericadamian@Erics-MBP-2 desktop % 
