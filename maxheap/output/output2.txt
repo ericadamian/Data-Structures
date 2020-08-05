@@ -1,0 +1,32 @@
+ericadamian@Erics-MBP-2 desktop % javac PriorityQueueInterfaceTest.java
+ericadamian@Erics-MBP-2 desktop % java PriorityQueueInterfaceTest      
+
+**********************************************************************
+	Priority Queue testing results (contains hardcoded values)
+**********************************************************************
+
+Is the given queue empty? true
+***Adding the specified entry to our queue***
+***Adding the specified entry to our queue***
+***Adding the specified entry to our queue***
+How many entries are in our queue? 3
+What is the maximum/largest entry in our queue? 13
+***Adding the specified entry to our queue***
+***Adding the specified entry to our queue***
+***Adding the specified entry to our queue***
+***Adding the specified entry to our queue***
+The following entry has been removed: 16
+The following entry has been removed: 13
+How many entries are in our queue? 5
+***Adding the specified entry to our queue***
+***Adding the specified entry to our queue***
+***Adding the specified entry to our queue***
+***Adding the specified entry to our queue***
+***Adding the specified entry to our queue***
+***Attempting to add specified entry to our queue (exceeds capacity)***
+What is the maximum/largest entry in our queue? 22
+How many entries are in our queue? 10
+Is the given queue empty? false
+***Clearing entries in our queue***
+Is the given queue empty? true
+ericadamian@Erics-MBP-2 desktop % 
