@@ -1,0 +1,32 @@
+ericadamian@Erics-MBP-2 desktop % javac Main.java
+ericadamian@Erics-MBP-2 desktop % java Main
+
+**********************************************************************
+	MaxHeap testing results (contains hardcoded values)
+**********************************************************************
+
+Is the given heap empty? true
+***Adding the specified entry to our heap***
+***Adding the specified entry to our heap***
+***Adding the specified entry to our heap***
+How many entries are in our heap? 3
+What is the maximum/largest entry in our heap? 13
+***Adding the specified entry to our heap***
+***Adding the specified entry to our heap***
+***Adding the specified entry to our heap***
+***Adding the specified entry to our heap***
+The following entry has been removed: 16
+The following entry has been removed: 13
+How many entries are in our heap? 5
+***Adding the specified entry to our heap***
+***Adding the specified entry to our heap***
+***Adding the specified entry to our heap***
+***Adding the specified entry to our heap***
+***Adding the specified entry to our heap***
+***Attempting to add specified entry to our heap (exceeds capacity)***
+What is the maximum/largest entry in our heap? 22
+How many entries are in our heap? 10
+Is the given heap empty? false
+***Clearing entries in our heap***
+Is the given heap empty? true
+ericadamian@Erics-MBP-2 desktop % 
